@@ -1,5 +1,5 @@
 {
-    "name": "paulhenri-l/laravel-dynamic-attributes",
+    "name": "the-librarian/laravel-dynamic-attributes",
     "description": "Dynamically add attributes to your eloquent models",
     "type": "library",
     "license": "MIT",
